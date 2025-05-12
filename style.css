@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    /*background: #f8f8f8; */
+    /*background: url('https://www.cybereason.com/hubfs/abstract-vector-lines-B1.jpg') no-repeat center center fixed;*/
+    background-size: cover;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+    background: white;
+}
+
+th, td {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+}
+
+form {
+    margin-bottom: 20px;
+}
+.block {
+    background-color: white;
+}
